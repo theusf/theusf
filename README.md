@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/Theusf?template=classic&base.activity=0&base.community=0&languages=1&config.timezone=America%2FSao_Paulo)
+
 <!--
 **theusf/theusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
