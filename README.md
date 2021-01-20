@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/Theusf?template=classic&base.activity=0&base.community=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FSao_Paulo&config.animated=true)
+![Metrics](https://metrics.lecoq.io/Theusf?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FSao_Paulo&config.animated=true)
 <!--
 **theusf/theusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
