@@ -1,6 +1,10 @@
-### Hi there 👋
 
 ![Metrics](https://metrics.lecoq.io/Theusf?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
+
+![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
+
 
 <!--
 **theusf/theusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
