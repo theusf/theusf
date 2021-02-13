@@ -1,5 +1,4 @@
-
-![Metrics](https://metrics.lecoq.io/Theusf?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusf)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
