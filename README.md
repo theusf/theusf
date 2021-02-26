@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusf)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusf&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
