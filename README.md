@@ -3,11 +3,11 @@
 <br/>
 Desde cedo muito apaixonado por tecnologia, sou formado em Desenvolvimento de sistemas no Colégio Técnico da UNICAMP 
 
-- 👨‍💻 Eu sou desenvolvedor **Backend de NodeJS e React Native**.
+- 👨‍💻 Desenvolvedor **Backend de NodeJS e React Native**.
 
-- 💼 Trabalhando como desenvolvedor de software na **[Business Integrator](https://businessintegrator.com.br)**
+- 💼 Trabalhando como desenvolvedor de software na CI&T
 
-- ✍ Atualmente estou estudando sobre serviços de cloud, microsserviços e kubernetes.
+- ✍ Atualmente estou estudando sobre serviços de cloud, microsserviços e kubernete e aprofundando conhecimentos em typescript
 
 <br/>
 
