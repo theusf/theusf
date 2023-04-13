@@ -1,10 +1,17 @@
-<img src="/header.png">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=theusf&show_icons=true&theme=dracula" >
-<br/>
-Desde cedo, sempre fui apaixonado por tecnologia. Sou formado em Desenvolvimento de Sistemas pelo Colégio Técnico da UNICAMP. Atualmente, trabalho como Desenvolvedor Backend com experiência em NodeJS e React Native na CI&T, uma empresa de desenvolvimento de software.
+<h1 align="center">Hi 👋, I'm Matheus Francisco</h1>
+<h3 align="center">A Software Engineer</h3>
+<img align='right' src="https://camo.githubusercontent.com/7749b56a18ab6fcd58242d9339369c61df0bf20af8431b5d9a5a2d2b14e61f0a/68747470733a2f2f692e696d6775722e636f6d2f56707a644156512e676966">
+<br>
+Passionate about technology from an early age, I am a graduate in Systems Development from UNICAMP's Technical College.
+<br>
 
- Além disso, estou sempre buscando expandir meus conhecimentos. No momento, estou estudando sobre serviços de nuvem, microsserviços e Kubernetes, e aprofundando minha compreensão em TypeScript.
-<br/>
+<br>
+
+- 👨‍💻 I am an experienced Backend Developer with expertise in NodeJS and React Native.
+- 💼 Currently working as a software developer at CI&T.
+- ✍ I am actively studying cloud services, microservices, Kubernetes, and deepening my knowledge of TypeScript.
+
+<br>
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
