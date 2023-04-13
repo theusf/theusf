@@ -1,14 +1,9 @@
 <img src="/header.png">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=theusf&show_icons=true&theme=dracula" >
 <br/>
-Desde cedo muito apaixonado por tecnologia, sou formado em Desenvolvimento de sistemas no Colégio Técnico da UNICAMP 
+Desde cedo, sempre fui apaixonado por tecnologia. Sou formado em Desenvolvimento de Sistemas pelo Colégio Técnico da UNICAMP. Atualmente, trabalho como Desenvolvedor Backend com experiência em NodeJS e React Native na CI&T, uma empresa de desenvolvimento de software.
 
-- 👨‍💻 Desenvolvedor **Backend de NodeJS e React Native**.
-
-- 💼 Trabalhando como desenvolvedor de software na CI&T
-
-- ✍ Atualmente estou estudando sobre serviços de cloud, microsserviços e kubernete e aprofundando conhecimentos em typescript
-
+ Além disso, estou sempre buscando expandir meus conhecimentos. No momento, estou estudando sobre serviços de nuvem, microsserviços e Kubernetes, e aprofundando minha compreensão em TypeScript.
 <br/>
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
